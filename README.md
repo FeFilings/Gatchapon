@@ -1,4 +1,4 @@
 # Gatchapon
 # Kanye West, he likes big fingers in his ass
 
-# Yes he does
+# Yes he does, the jews have space lasers
