@@ -1,5 +1,5 @@
-main: main.o
-	g++ -g -o main main.o
+main: program.o
+	g++ -g -o main program.o
 
-main.o: program.cpp program.h
+program.o: program.cpp program.h
 	g++ -g  -c program.cpp program.h
